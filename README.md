@@ -18,7 +18,7 @@
 
 <p align="center">
 
-<a href="https://walysonmoura.github.io/NFT-card/"><img src="assets/img/preview.png" alt="https-walysonmoura-github-RocketCoffee" border="0"></a>
+<a href="https://walysonmoura.github.io/NFT-card/"><img src="./assets/img/preview.png" alt="https-walysonmoura-github-RocketCoffee" border="0"></a>
 
 ##
 
