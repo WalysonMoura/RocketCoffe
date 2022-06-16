@@ -36,7 +36,7 @@
 
 <p align="center">
 
-<a href="https://walysonmoura.github.io/RocketCoffe/"><img src="assets/img/qr.png" alt="https-walysonmoura-github-RocketCoffee" border="0"></a>
+<a href="https://walysonmoura.github.io/RocketCoffe/"><img src="https://raw.githubusercontent.com/WalysonMoura/RocketCoffe/main/assets/qr.png" alt="https-walysonmoura-github-RocketCoffee" border="0"></a>
 
 </p>
 
